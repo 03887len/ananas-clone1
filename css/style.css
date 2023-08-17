@@ -1,0 +1,48 @@
+.hinh2{
+    height: 300px;
+    object-fit: cover;
+}
+.hinh3{
+    height: 300px;
+    object-fit: cover;
+}
+.logo_footer{
+    width: 50px;
+    height: 50px;
+}
+.logo_header{
+    width: 100px;
+    height: 100px;
+}
+.bgtop1{
+    background-color: #303030;
+    color: #CCCCCC;
+}
+.boxcenter{
+    width: 70%;
+    margin: 0 auto;
+}
+section{
+    margin: 50px auto;
+}
+.danhmucmuahang img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+.text-footer{
+    color: #CCCCCC !important;
+}
+.docthem{
+    text-decoration: none
+}
+.title1{
+    text-decoration: none
+}
+.title2{
+    text-decoration: none
+}
+.img1{
+    height: 200px;
+    object-fit: cover;
+}
